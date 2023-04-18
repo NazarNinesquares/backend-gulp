@@ -1,0 +1,7 @@
+.class {
+  background: #000;
+}
+
+.class__subclass {
+  background: red;
+}
